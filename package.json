@@ -1,0 +1,19 @@
+{
+  "name": "pavel-practica-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/lakiAnashe/login)"
+  },
+  "author": "Pavel Gutierrez Quispe",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
